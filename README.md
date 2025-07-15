@@ -1,4 +1,4 @@
-<!--# Hi, I'm Mukthanand Reddy M
+# Hi, I'm Mukthanand Reddy M
 
 🎓 Final Year B.Tech Computer Science Student at ICFAI Tech, Hyderabad (2026)  
 💻 Passionate about **software development**, **cloud**, **data science**, and **AI**     
