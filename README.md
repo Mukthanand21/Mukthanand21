@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**Mukthanand21/Mukthanand21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--# I'm Mukthanand Reddy M
 
-Here are some ideas to get you started:
+🎓 Final Year B.Tech Computer Science Student at ICFAI Tech, Hyderabad (2026)  
+💻 Passionate about **software development**, **cloud**, **data science**, and **AI**     
+🚀 Continuously improving my skills by building real-world applications 
+📌 Open to development internships and full-time opportunities  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages**: Python, JavaScript, Java, C
+- **Frontend**: React.js, Tailwind CSS, ShadCN/UI
+- **Backend**: Flask, Node.js
+- **Database**: PostgreSQL, MySql
+- **Cloud**: AWS(Fundamentals)
+- **Tools**: Git, GitHub, VS Code
+
+
+## 🔗 Connect with me
+- 📧 Email: mukthanandreddy21@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mukthanandreddy21) 
+
+---
+
+Thanks for visiting my profile!
