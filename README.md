@@ -16,7 +16,7 @@
 
 ## 🔗 Connect with me
 - 📧 Email: mukthanandreddy21@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mukthanandreddy21) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/mukthanand21/) 
 
 ---
 
