@@ -1,5 +1,3 @@
-# 💫 About Me
-
 Hi, I'm Mukthanand 👋
  
 CSE graduate (2026 batch), ICFAI Tech Hyderabad.
