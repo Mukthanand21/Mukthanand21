@@ -8,9 +8,9 @@ I build things on the web (React, FastAPI) and work on AI-powered tools — RAG 
 
 Most of my real-world contributions are on GitLab, where I've been interning at Viswam AI (IIIT Hyderabad) — working on open-source healthcare and corpus tools under the Swecha ecosystem.
 
-📂 **GitLab (main contributions):** [code.swecha.org/Mukthanand21](https://code.swecha.org/Mukthanand21)
-🌐 **Portfolio:** [mukthanand21.github.io](https://mukthanand21.github.io)
-📬 Open to opportunities — feel free to connect!
+🔗 [Portfolio](https://mukthanand21.github.io) · [GitLab](https://code.swecha.org/Mukthanand21) · [Email me](mailto:mukthanandreddy21@gmail.com)
+
+> 💼 Open to full-time opportunities in software / AI engineering
 
 ---
 
@@ -66,13 +66,16 @@ Most of my real-world contributions are on GitLab, where I've been interning at 
 
 ---
 
-## 📊 GitHub Stats
+## 🦊 Open Source Contributions — [code.swecha.org](https://code.swecha.org/Mukthanand21)
 
-![](https://github-readme-stats.vercel.app/api?username=Mukthanand21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+My primary open-source work lives on Swecha's GitLab, contributing to FOSS projects built for communities in India.
 
-![](https://streak-stats.demolab.com/?user=Mukthanand21&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukthanand21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+| Metric | Count |
+|---|---|
+| 🗂️ Projects Contributed | 7 |
+| ✅ MRs Merged | 17 |
+| 🐛 Issues Created | 40 |
+| 💾 Total Commits | 566 |
 
 ---
 
